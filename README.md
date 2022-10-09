@@ -1,4 +1,4 @@
-### Hi 👋, I'm Shivam
+<h2 align="center">Hi 👋, I'm Shivam</h2>
 
 I am a full stack engineer
 
